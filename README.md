@@ -39,7 +39,6 @@ https://www.weatherapi.com/
 
 ```bash
 📦 weather-app
- ┣ 📂 assets
  ┣ 📜 index.html
  ┣ 📜 style.css
  ┣ 📜 script.js
@@ -53,7 +52,7 @@ https://www.weatherapi.com/
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/modern-weather-dashboard.git
+https://github.com/Srimanta2006/weatherly/
 ```
 
 Open the project folder:
@@ -94,13 +93,8 @@ https://www.weatherapi.com/
 
 ## Live Demo
 
-(Add your deployed link here)
+[weatherly-sepia-zeta.vercel.app]
 
-Example:
-
-```txt
-https://your-project-name.vercel.app
-```
 
 ---
 
