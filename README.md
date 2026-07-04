@@ -93,7 +93,7 @@ https://www.weatherapi.com/
 
 ## Live Demo
 
-[weatherly-sepia-zeta.vercel.app]
+https://weatherly-sepia-zeta.vercel.app
 
 
 ---
